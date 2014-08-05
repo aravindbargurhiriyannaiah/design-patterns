@@ -1,0 +1,17 @@
+/junit
+/build
+/.idea
+/.gradle
+/.settings
+/bin
+/out
+/dist
+/.classpath
+/.project
+*.ipr
+*.iml
+*.iws
+.idea/*
+logback-test.xml
+jmeter.log
+gitinfo.txt
